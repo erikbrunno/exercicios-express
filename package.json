@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/erikbrunno/exercicios-express#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "~4.16.4",
     "pm2": "^3.4.1"
   },
